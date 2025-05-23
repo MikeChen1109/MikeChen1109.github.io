@@ -85337,13 +85337,13 @@ A.QE.prototype={
 Lr(a,b,c){var s=null
 return new A.QF(c,b,a,B.R,new A.DC(this.a,s,s,B.Cz,s),s,!1,!1,s,!1,s,s)}}
 A.axq.prototype={
-$1(a){return A.aEq("http://localhost:4000",new A.axp(a))},
+$1(a){return A.aEq("https://social-feed-backend-service.onrender.com",new A.axp(a))},
 $S:211}
 A.axp.prototype={
 $0(){this.a.fe(0,$.tz().gmL(),t.bE).mG()},
 $S:0}
 A.awz.prototype={
-$1(a){return A.aEq("http://localhost:3000",new A.awy(a))},
+$1(a){return A.aEq("https://feed-service-xgu1.onrender.com",new A.awy(a))},
 $S:211}
 A.awy.prototype={
 $0(){this.a.fe(0,$.tz().gmL(),t.bE).mG()},
